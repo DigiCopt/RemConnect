@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RemConnect</string>
+    <string name="password">Password</string>
+    <string name="email">Email Address</string>
+    <string name="login">Login</string>
+    <string name="default_notification_channel_id">remconnect\n</string>
+    <string name="fcm_message">SCHOOL ALERT!!\n</string>
+    <string name="accessibility_service_description">Used</string>
+    <string name="hamburger_menu_button">Hamburger Menu Button</string>
+    <string name="checkmark_icon">Checkmark Icon</string>
+    <string name="logout_button">Logout Button</string>
+    <string name="person_vector">Person Vector</string>
+    <string name="check_vector">Check Vector</string>
+    <string name="logout">Logout Button</string>
+</resources>
